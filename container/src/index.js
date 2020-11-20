@@ -1,1 +1,1 @@
-console.log('puppy container')
+import('./bootstrap')
